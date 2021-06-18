@@ -17,3 +17,4 @@
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
 sed -i '$a src-git helloworld https://github.com/fw876/helloworld' feeds.conf.default
 sed -i '$a src-git serverchan https://github.com/tty228/luci-app-serverchan' feeds.conf.default
+sed -i '$a src-git argon_new https://github.com/DD663663/luci-theme-argon_new' feeds.conf.default
