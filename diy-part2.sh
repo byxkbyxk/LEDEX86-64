@@ -16,4 +16,4 @@ sed -i '/set luci.main.mediaurlbase=\/luci-static\/bootstrap/d' feeds/luci/theme
 git clone https://github.com/tty228/luci-app-serverchan.git ./package/lean/luci-app-serverchan
 # git clone https://github.com/DD663663/luci-theme-argon_new.git ./package/lean/luci-theme-argon_new
 git clone https://github.com/sirpdboy/luci-app-advanced.git ./package/lean/luci-app-advanced
-git clone https://github.com/kenzok8/luci-theme-ifit.git ./package/lean/luci-theme-ifit
+# git clone https://github.com/kenzok8/luci-theme-ifit.git ./package/lean/luci-theme-ifit
