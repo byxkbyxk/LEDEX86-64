@@ -15,4 +15,7 @@
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
-sed -i '$a src-git helloworld https://github.com/fw876/helloworld' feeds.conf.default
+sed -i '$a src-git helloworld https://github.com/fw876/helloworld.git' feeds.conf.default
+sed -i '$a src-git luci-app-serverchan https://github.com/tty228/luci-app-serverchan.git' feeds.conf.default
+sed -i '$a src-git luci-theme-argon_new https://github.com/DD663663/luci-theme-argon_new.git' feeds.conf.default
+sed -i '$a src-git luci-app-advanced https://github.com/sirpdboy/luci-app-advanced.git' feeds.conf.default
