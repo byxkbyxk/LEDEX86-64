@@ -19,6 +19,6 @@ git clone https://github.com/sirpdboy/luci-app-advanced.git ./package/lean/luci-
 # git clone https://github.com/kenzok8/luci-theme-ifit.git ./package/lean/luci-theme-ifit
 # git clone https://github.com/xiaoqingfengATGH/luci-theme-infinityfreedom.git ./package/lean/luci-theme-infinityfreedom.git
 git clone https://github.com/xiaorouji/openwrt-passwall.git ./package/lean/openwrt-passwall
-git clone https://github.com/sirpdboy/luci-theme-opentopd ./package/lean/luci-theme-opentopd
+# git clone https://github.com/sirpdboy/luci-theme-opentopd ./package/lean/luci-theme-opentopd
 rm -rf ./package/lean/luci-app-netdata
 git clone https://github.com/sirpdboy/luci-app-netdata ./package/lean/luci-app-netdata
